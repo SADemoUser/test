@@ -15,6 +15,7 @@
 <!-- MAIN NAVIGATION SCREEN -->
     <string name="Nav.menu.Projects">Projects</string>
     <string name="Nav.menu.Customers">Customers</string>
+    <string name="Nav.menu.Users">NEW STRING</string>
     <string name="Nav.menu.Users">Users</string>
     <string name="Nav.menu.LSPs">LSPs</string>
     <string name="Nav.menu.Tasks">Tasks</string>
